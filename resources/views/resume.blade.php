@@ -90,7 +90,7 @@
                                             </div>
 
                                             <p>
-                                                <a href="{{ asset('assets/docs/Hoja de vida LEINER FABIAN ORTEGA V2.pdf') }}" download class="button primary"><i class="pw-icon-doc-alt"></i>Descargar CV</a>
+                                                <a href="{{ asset('assets/docs/Hoja de vida LEINER FABIAN ORTEGA.pdf') }}" download class="button primary"><i class="pw-icon-doc-alt"></i>Descargar CV</a>
                                             </p>
                                         </div>
                                         <!-- col -->
