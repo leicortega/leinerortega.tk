@@ -7,7 +7,7 @@
 
 
     <!-- HOME BG IMAGE -->
-    <div class="home-bg" style="background-image: url({{ asset('assets/images/home/cover_01.jpg') }})"></div>
+    <div class="home-bg" style="background-image: url({{ asset('assets/images/home/cover_01_min.jpg') }})"></div>
     <!-- HOME BG IMAGE -->
 
 
